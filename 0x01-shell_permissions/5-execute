@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lan
+chmod u+x hello
